@@ -1,4 +1,4 @@
-name := "scala_play_TodoList"
+name := "scala_play_todoList"
 
 version := "1.0"
 
