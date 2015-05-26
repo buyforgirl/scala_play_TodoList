@@ -1,4 +1,4 @@
-name := "scala_play_todoList"
+name := "scala_play_todolist"
 
 version := "1.0"
 
@@ -8,4 +8,4 @@ scalaVersion := "2.11.1"
 
 libraryDependencies ++= Seq( jdbc , anorm , cache , ws )
 
-unmanagedResourceDirectories in Test <+=  baseDirectory ( _ /"target/web/public/test" )  
+unmanagedResourceDirectories in Test <+=  baseDirectory ( _ /"target/web/public/test" )
