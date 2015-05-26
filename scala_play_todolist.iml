@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="scala_play" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="SBT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="scala_play_todolist" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="SBT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/target/scala-2.11/classes" />
     <output-test url="file://$MODULE_DIR$/target/scala-2.11/test-classes" />
@@ -16,7 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="TEST" name="SBT: cglib:cglib-nodep:2.1_3:jar" level="project" />
     <orderEntry type="library" name="SBT: ch.qos.logback:logback-classic:1.1.1:jar" level="project" />

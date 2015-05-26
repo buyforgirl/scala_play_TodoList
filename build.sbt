@@ -1,8 +1,8 @@
-name := "scala_play"
+name := "scala_play_TodoList"
 
 version := "1.0"
 
-lazy val `scala_play` = (project in file(".")).enablePlugins(PlayScala)
+lazy val `scala_play_todolist` = (project in file(".")).enablePlugins(PlayScala)
 
 scalaVersion := "2.11.1"
 
